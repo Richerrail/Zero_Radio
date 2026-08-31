@@ -38,3 +38,12 @@ python zero_radio.py
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+
+## Soutenez le projet
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/richerrailk" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
+  </a>
+</p>
