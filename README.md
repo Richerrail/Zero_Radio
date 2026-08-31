@@ -5,6 +5,7 @@ Lecteur mp3, webradio, url
 ## Description
 
 Zero Radio est une application Python permettant de lire des fichiers MP3, des webradios et des flux audio à partir d'URLs.
+Et est un module compris dans les tools de Zer0🤖.
 
 ## Fonctionnalités
 
